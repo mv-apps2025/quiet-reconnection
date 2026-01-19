@@ -183,7 +183,7 @@ Key pain points from Reddit/forum research:
 ## Links
 
 - **Live Site:** https://thenextchapter.manus.space
-- **GitHub Repo:** https://github.com/mv-apps2025/quiet-reconnection
+- **GitHub Repo:** https://github.com/mv-apps2025/the-next-chapter
 - **Manus Memory:** https://github.com/mv-apps2025/manus-memory
 - **Notion Page:** https://www.notion.so/2ecddab725948138ac6bc2394e14a839
 
