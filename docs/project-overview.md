@@ -1,21 +1,31 @@
-# Project: Quiet Reconnection
+# Project: The Next Chapter
 
-**A discreet, self-paced digital program for parents navigating the empty nest transition.**
+**A transformational digital program for parents ready to embrace life after the empty nest.**
 
-## Current Status: v2 MVP Complete
+## Current Status: v3 PUBLISHED
 
 | Attribute | Value |
 |-----------|-------|
+| **Brand Name** | The Next Chapter |
+| **Tagline** | "Your kids flew. Now it's your turn." |
 | **Product Type** | Value ladder funnel (free → low → mid → high ticket) |
-| **Target Audience** | Parents 40-65, empty nesters, "Secret Strugglers" |
+| **Target Audience** | Parents 40-65, empty nesters |
 | **Core Positioning** | Aspirational transformation, not just healing |
-| **Primary CTA** | Free email signup (5-day mini-course) |
+| **Primary CTA** | Free email signup (5-day guide) |
+| **Live URL** | https://thenextchapter.manus.space |
 
 ---
 
 ## Version History
 
-### v2 (Current) - Jan 2026
+### v3 (Current - LIVE) - Jan 18, 2026
+- **Rebrand:** "Quiet Reconnection" → "The Next Chapter"
+- **Final Tagline:** "Your kids flew. Now it's your turn."
+- **Messaging:** Validation-first approach, aspirational transformation
+- **Published:** https://thenextchapter.manus.space
+- **Email Sequence:** 5 emails sent for review
+
+### v2 - Jan 2026
 - **Major Pivot:** Shifted from grief-focused to aspirational transformation messaging
 - **StoryBrand Framework:** Customer as hero on journey to "Next Chapter"
 - **Value Ladder:** Free → $37 → $29/mo → $497 progression
@@ -33,37 +43,37 @@
 
 | Tier | Offer | Price | Purpose |
 |------|-------|-------|---------|
-| **Free** | "5 Days to Your Next Chapter" email course | $0 | Build trust, grow list |
-| **Low** | "The Next Chapter Toolkit" | $37 | Easy first purchase |
+| **Free** | "5-Day Next Chapter Guide" email course | $0 | Build trust, grow list |
+| **Low** | "The Next Chapter Toolkit" | $47 | Easy first purchase |
 | **Mid** | "The Next Chapter Circle" membership | $29/mo | Recurring revenue, community |
 | **High** | "The Complete Transformation" course | $497 | Full system for ready buyers |
 
 ---
 
-## Brand Guidelines (v2)
+## Brand Guidelines (v3)
 
 ### Positioning
 - **FROM:** Grief, loss, healing (passive)
 - **TO:** Transformation, freedom, next chapter (active)
 
 ### Tagline
-"From Empty Nest to Full Life"
+"Your kids flew. Now it's your turn."
 
 ### Keywords
 Freedom, Transformation, Rediscovery, Connection, Purpose
 
 ### Color Palette
-- **Primary:** Dusty Blue (#6B8A9A) - slightly more vibrant
+- **Primary Accent:** Dusty Blue (#6B8A9A)
 - **Background:** Ivory White (#FAFAF8)
 - **Text:** Deep Charcoal (#2D2D2D)
-- **Accent:** Warm gray (#E8E4E0)
+- **Border/Muted:** Warm gray (#E8E4E0)
 
 ### Typography
 - **Headlines:** Cormorant Garamond (serif)
 - **Body:** DM Sans (sans-serif)
 
 ### Voice
-"The Encouraging Coach" — Empathetic but energizing, possibility-focused, action-oriented
+"The Encouraging Coach" — Empathetic but energizing, possibility-focused, action-oriented, validation-first
 
 ---
 
@@ -76,21 +86,24 @@ Freedom, Transformation, Rediscovery, Connection, Purpose
 - Value ladder progression visible
 - Social proof section
 - FAQ section
+- **Live URL:** https://thenextchapter.manus.space
 
 ### Email Sequences
-1. **5-Day Free Mini-Course** (`v2-email-sequence-free.md`)
-   - Day 1: Why this feels hard
-   - Day 2: The freedom reframe
-   - Day 3: The reconnection paradox
-   - Day 4: Rediscovering you
-   - Day 5: Your next chapter blueprint
+1. **5-Day Free Guide** (`v3-email-sequence.md`)
+   - Day 1: The Identity Earthquake
+   - Day 2: The Freedom Reframe
+   - Day 3: The Reconnection Paradox
+   - Day 4: Rediscovering You
+   - Day 5: Your Next Chapter Blueprint
 
-2. **Original 5-Day Sequence** (`copy-email-sequence.md`) - v1, archived
+2. **Previous versions** - v1 and v2 archived in assets/copy/
 
 ### Copy Documents
-- `v2-copy-landing-page.md` - Current landing page copy
-- `v2-brand-strategy.md` - Full strategic framework
+- `v3-copy-landing-page.md` - Current landing page copy
+- `v3-email-sequence.md` - Current email sequence
+- `v2-brand-strategy.md` - Strategic framework (archived)
 - `copy-landing-page.md` - v1, archived
+- `copy-email-sequence.md` - v1, archived
 
 ### Images
 - `hero-quiet-room.jpg` - Serene interior scene
@@ -107,7 +120,7 @@ Freedom, Transformation, Rediscovery, Connection, Purpose
                                               ↓
                                     [5-Day Email Sequence]
                                               ↓
-                              [Offer: $37 Toolkit] ← Some buy
+                              [Offer: $47 Toolkit] ← Some buy
                                               ↓
                               [Nurture Sequence - 2 weeks]
                                               ↓
@@ -136,29 +149,30 @@ Key pain points from Reddit/forum research:
 
 ---
 
-## Roadmap (Updated for v2)
+## Roadmap
 
-### Phase 1: Foundation (Week 1)
+### Phase 1: Foundation ✅ COMPLETE
 - [x] Landing page with email capture
 - [x] 5-day email sequence copy
 - [x] Brand guidelines and positioning
-- [ ] Publish landing page via Manus
-- [ ] Set up ConvertKit account
+- [x] Rebrand to "The Next Chapter"
+- [x] **Publish landing page** → https://thenextchapter.manus.space
+
+### Phase 2: Lead Magnet & Low-Ticket (Next)
+- [ ] Set up ConvertKit/Beehiiv account
 - [ ] Import email sequence
+- [ ] Connect form to ESP (webhook/Zapier)
+- [ ] Build $47 Toolkit in Canva/Notion
+- [ ] Set up Stripe for payments
+- [ ] Create 3-5 faceless TikTok/Reels using VoC quotes
 
-### Phase 2: Lead Magnet & Low-Ticket (Week 2)
-- [ ] Create PDF lead magnet (5 Gentle Ways to Reconnect)
-- [ ] Build $37 Toolkit in Canva/Notion
-- [ ] Set up Gumroad for payment
-- [ ] Create 3-5 faceless TikTok/Reels
-
-### Phase 3: Community & Content (Week 3-4)
+### Phase 3: Community & Content
 - [ ] Set up Circle/Skool for membership
-- [ ] Record Module 1: The Dignity of Grief
-- [ ] Record Module 2: Rewriting Your Story
+- [ ] Record Module 1: The Identity Earthquake
+- [ ] Record Module 2: The Freedom Reframe
 - [ ] Run initial Facebook Ads test ($200)
 
-### Phase 4: Scale (Month 2+)
+### Phase 4: Scale
 - [ ] Complete remaining course modules
 - [ ] Expand ad spend based on results
 - [ ] Build affiliate partnerships
@@ -168,11 +182,13 @@ Key pain points from Reddit/forum research:
 
 ## Links
 
+- **Live Site:** https://thenextchapter.manus.space
 - **GitHub Repo:** https://github.com/mv-apps2025/quiet-reconnection
 - **Manus Memory:** https://github.com/mv-apps2025/manus-memory
 - **Notion Page:** https://www.notion.so/2ecddab725948138ac6bc2394e14a839
-- **Landing Page:** Manus webdev platform (publish to go live)
 
 ---
 
 *Last Updated: January 18, 2026*
+*Status: ✅ PUBLISHED*
+*Brand: The Next Chapter*

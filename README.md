@@ -98,7 +98,7 @@ assets/
 
 ## Status
 
-✅ **PUBLISHED** - January 18, 2026
+🟢 **ACTIVE** - Published January 18, 2026
 
 ---
 
